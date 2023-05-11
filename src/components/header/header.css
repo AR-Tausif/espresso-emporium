@@ -1,0 +1,8 @@
+.header_hero {
+  height: 70vh;
+  font-family: "Rancho", cursive;
+  background-image: url("/public//images/more/3.png");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-position: center;
+}
